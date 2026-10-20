@@ -25,11 +25,14 @@ Stuff you learned about:
     # wsl.exe -d Ubuntu
     # or in a powershell window you can just type bash
     ```
-  
+
   * Course: Software Carpentry [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+
 * Using an editor:
   * `vi`, `nano`, [visual studio code](https://code.visualstudio.com/download)
+
 * Markdown ([cheat sheet](https://www.markdownguide.org/cheat-sheet/))
+
 * Git and GitHub
   * local git repo, set credentials (`git config --global user/email`), create repo in a sub directory (`git init`), status (`git status`), adding (`git add`), committing (`git commit`) 
   * remote repo, pulling (`git pull`), pushing (`git push`), hurdles, resolving conflicts
@@ -38,6 +41,7 @@ Stuff you learned about:
     * Doing pull requests
   * creating and navigating branches
   * Course: Software Carpentry [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+
 * Python
   * Virtual environments:
     ```shell
@@ -52,6 +56,10 @@ Stuff you learned about:
     ```
   * AI programming assists
   * Courses: Software Carpentry [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) or [Plotting and Programming with Python](https://swcarpentry.github.io/python-novice-gapminder/)
+
+* Quick run through of HPC in a whiteboard
+
+![Quick run through HPC in a whiteboard](imgs/whiteboard.jpg)
 
 ## Requirements
 
